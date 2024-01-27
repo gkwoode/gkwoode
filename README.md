@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Godwin Kingsley Woode
 #### I am Data Analyst, Web Developer and Teacher.
-![I am Data Analyst, Web Developer and Teacher.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Data Analyst, Web Developer and Teacher.]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
