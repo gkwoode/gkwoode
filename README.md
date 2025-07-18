@@ -46,7 +46,7 @@ _Completed 2021_
       <!-- Microsoft Certified: Power BI Data Analyst Associate -->
       <td align="center" width="25%">
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/E213EB1936607178?sharingId=4BC175BA73E92861" target="_blank">
-          <img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
         </a>
         <br>
         <b>Microsoft Certified: Power BI Data Analyst Associate</b>
@@ -54,10 +54,63 @@ _Completed 2021_
       <!-- Microsoft Certified: Fabric Analytics Engineer Associate -->
       <td align="center" width="25%">
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/EF9FA901AE964707?sharingId=4BC175BA73E92861" target="_blank">
-          <img src="https://pluralsight2.imgix.net/guides/4c74c420-9489-45be-b4b2-c7a2df0d644b_Microsoft-certified-associate-badge.PNG">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
         </a>
         <br>
         <b>Microsoft Certified: Fabric Analytics Engineer Associate</b>
+      </td>
+      <!-- Microsoft Certified: Fabric Data Engineer Associate -->
+      <td align="center" width="25%">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/3FDDC901832C18DB?sharingId=4BC175BA73E92861" target="_blank">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
+        </a>
+        <br>
+        <b>Microsoft Certified: Fabric Data Engineer Associate</b>
+      </td>
+      <!-- Microsoft Certified: Azure Data Scientist Associate -->
+      <td align="center" width="25%">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/63B049708300FCB9?sharingId=4BC175BA73E92861"
+        target="_blank">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
+        </a>
+        <br>
+        <b>Microsoft Certified: Azure Data Scientist Associate</b>
+      </td>
+      <!-- Microsoft Certified: Azure AI Engineer Associate -->
+      <td align="center" width="25%">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/8A95CF8D1F13F0E8?sharingId=4BC175BA73E92861"
+        target="_blank">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
+        </a>
+        <br>
+        <b>Microsoft Certified: Azure AI Engineer Associate</b>
+      </td>
+      <!-- Microsoft Certified: Azure Data Engineer Associate -->
+      <td align="center" width="25%">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/2ACFE3B727662ED8?sharingId=4BC175BA73E92861"
+        target="_blank">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
+        </a>
+        <br>
+        <b>Microsoft Certified: Azure Data Engineer Associate</b>
+      </td>
+      <!-- Microsoft Certified: Azure Data Fundamentals -->
+      <td align="center" width="25%">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/EF4E92A294369EDE?sharingId=4BC175BA73E92861"
+        target="_blank">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main">
+        </a>
+        <br>
+        <b>Microsoft Certified: Azure Data Fundamentals</b>
+      </td>
+      <!-- Microsoft Certified: Azure AI Fundamentals -->
+      <td align="center" width="25%">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/E12F6979A097D266?sharingId=4BC175BA73E92861"
+        target="_blank">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main">
+        </a>
+        <br>
+        <b>Microsoft Certified: Azure AI Fundamentals</b>
       </td>
       <!-- GitHub Administration -->
       <td align="center" width="25%">
