@@ -43,7 +43,7 @@ _Completed 2021_
 <div align="center">
   <table>
     <tr>
-      <!-- Microsoft Certified: Power BI Data Analyst Associate -->
+    <!-- Microsoft Certified: Power BI Data Analyst Associate -->
       <td align="center" width="25%">
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/E213EB1936607178?sharingId=4BC175BA73E92861" target="_blank">
           <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
@@ -76,6 +76,8 @@ _Completed 2021_
         <br>
         <b>Microsoft Certified: Azure Data Scientist Associate</b>
       </td>
+    </tr>
+    <tr>
       <!-- Microsoft Certified: Azure AI Engineer Associate -->
       <td align="center" width="25%">
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/8A95CF8D1F13F0E8?sharingId=4BC175BA73E92861"
@@ -112,6 +114,8 @@ _Completed 2021_
         <br>
         <b>Microsoft Certified: Azure AI Fundamentals</b>
       </td>
+    </tr>
+    <tr>
       <!-- GitHub Administration -->
       <td align="center" width="25%">
         <a href="https://www.credly.com/earner/earned/badge/f398c711-f18e-40ce-b205-d60139b6303d" target="_blank">
