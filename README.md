@@ -176,11 +176,6 @@ Motivated and enthusiastic Data Analyst with a strong foundation in data transfo
 
 ---
 
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkwoode&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2E86AB&line=2E86AB&point=FF6B6B" alt="Contribution Graph" />
