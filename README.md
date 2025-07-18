@@ -118,7 +118,8 @@ _Completed 2021_
     <tr>
       <!-- GitHub Administration -->
       <td align="center" width="25%">
-        <a href="https://www.credly.com/earner/earned/badge/f398c711-f18e-40ce-b205-d60139b6303d" target="_blank">
+        <a href="https://www.credly.com/earner/earned/badge/f398c711-f18e-40ce-b205-d60139b6303d" 
+        target="_blank">
           <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="120" alt="GitHub Administration">
         </a>
         <br>
@@ -126,54 +127,7 @@ _Completed 2021_
       </td>
     </tr>
   </table>
-
----
-
-## 💼 Experience
-
-**Junior Data Analyst**  
-Cloudware Africa, Accra | Oct 2024 – Present  
-- Designed and developed interactive Power BI dashboards for internal and client use.
-- Delivered Power BI training sessions for staff and external teams.
-- Conducted data modeling and SQL-based data preparation for reporting pipelines.
-- Contributed to building analytics solutions using Microsoft Fabric.
-- Delivered Power BI/Microsoft Fabric Analyst in a Day workshops.
-
-**Data Analyst Intern**  
-Cloudware Africa, Accra | Mar 2024 – Sep 2024  
-- Assisted in organizing Power BI workshops and onboarding new users.
-- Supported in building and optimizing interactive Power BI reports for client projects.
-
-**ICT Teacher**  
-St. Peter’s Cambridge International School, Anaji | May 2023 – Feb 2024  
-- Provided instruction in Cambridge IGCSE ICT curriculum.
-- Led students in practical ICT skills development.
-- Implemented various assessment methods to tailor instruction.
-
-**National Service Personnel**  
-E-Learning & Knowledge Management, UCC | Oct 2021 – Oct 2022  
-- Developed a conference management web app.
-- Provided training and technical support on the university’s e-learning system.
-
----
-
-## 🏅 Leadership & Volunteering
-
-**Google Developer Student Club Co-Lead**  
-UCC | Sep 2019 – Oct 2021  
-- Supported club members during coding labs and technical sessions.
-- Organized tech events, workshops, and hackathons.
-
-**Association Organizer**  
-Dept. of Computer Science & IT Association, UCC | 2020 – Oct 2021  
-- Co-led planning and execution of annual week celebration.
-- Coordinated seminars and TechKlinics.
-
-**Data Science Assistant Trainer**  
-DigicapGh Career Support Unit, UCC | Jan 2022 – Oct 2022  
-- Assisted in delivering training sessions and workshops.
-- Developed and graded assignments and mock exams.
-- Coordinated mentoring and support for students.
+</div>
 
 ---
 
