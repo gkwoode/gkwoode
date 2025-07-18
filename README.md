@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Godwin Kingsley Woode</h1>
 <h3 align="center">Data Analyst | Power BI Developer | Trainer</h3>
 
 <p align="center">
@@ -16,8 +15,8 @@ Motivated and enthusiastic Data Analyst with a strong foundation in data transfo
 ---
 
 ## 💼 Contact
-- 📞 +233264175879 | +233541416589
-- 📧 kingsley.woode@gmail.com
+<!-- - 📞 +233264175879 | +233541416589
+- 📧 kingsley.woode@gmail.com -->
 - 🌐 [LinkedIn](https://linkedin.com/in/godwin-woode)
 
 ---
@@ -41,11 +40,35 @@ _Completed 2021_
 ---
 
 ## 📜 Certifications
-- Google Data Analytics Professional Certificate (2021)
-- Microsoft Certified: Azure Data Fundamentals (DP-900, 2024)
-- Microsoft Certified: Fabric Analytics Engineer Associate (DP-600, 2024)
-- Microsoft Certified: Fabric Data Engineer Associate (DP-700, 2025)
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300, 2025)
+<div align="center">
+  <table>
+    <tr>
+      <!-- Microsoft Certified: Power BI Data Analyst Associate -->
+      <td align="center" width="25%">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/E213EB1936607178?sharingId=4BC175BA73E92861" target="_blank">
+          <img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png">
+        </a>
+        <br>
+        <b>Microsoft Certified: Power BI Data Analyst Associate</b>
+      </td>
+      <!-- Microsoft Certified: Fabric Analytics Engineer Associate -->
+      <td align="center" width="25%">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/gkwoode/EF9FA901AE964707?sharingId=4BC175BA73E92861" target="_blank">
+          <img src="https://pluralsight2.imgix.net/guides/4c74c420-9489-45be-b4b2-c7a2df0d644b_Microsoft-certified-associate-badge.PNG">
+        </a>
+        <br>
+        <b>Microsoft Certified: Fabric Analytics Engineer Associate</b>
+      </td>
+      <!-- GitHub Administration -->
+      <td align="center" width="25%">
+        <a href="https://www.credly.com/earner/earned/badge/f398c711-f18e-40ce-b205-d60139b6303d" target="_blank">
+          <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="120" alt="GitHub Administration">
+        </a>
+        <br>
+        <b>GitHub Administration</b>
+      </td>
+    </tr>
+  </table>
 
 ---
 
