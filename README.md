@@ -15,8 +15,8 @@ Motivated and enthusiastic Data Analyst with a strong foundation in data transfo
 ---
 
 ## 💼 Contact
-<!-- - 📞 +233264175879 | +233541416589
-- 📧 kingsley.woode@gmail.com -->
+- 📞 [Phone](+233264175879)
+- 📧 [Email](kingsleywoode1@gmail.com)
 - 🌐 [LinkedIn](https://linkedin.com/in/godwin-woode)
 
 ---
