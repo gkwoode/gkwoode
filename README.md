@@ -1,4 +1,4 @@
-<h3 align="center">Data Analyst | Power BI Developer</h3>
+<h1 align="center">Data Analyst | Power BI Developer</h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/godwin-woode"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
